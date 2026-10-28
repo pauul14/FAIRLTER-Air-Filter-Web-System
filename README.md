@@ -36,33 +36,14 @@ These describe features represented in the source code and do not constitute ind
 
 Technologies Used
 
-Category
-
-Technologies
-
-Frontend
-
-HTML5, CSS3, JavaScript
-
-Backend
-
-PHP
-
-Database
-
-MySQL
-
-Data Visualization
-
-Chart.js
-
-Mapping
-
-Leaflet
-
-Development
-
-Web Development, Responsive UI Design
+| Category | Technologies |
+| --- | --- |
+| Frontend | HTML5, CSS3, JavaScript |
+| Backend | PHP |
+| Database | MySQL |
+| Data Visualization | Chart.js |
+| Mapping | Leaflet |
+| Development | Web Development, Responsive UI Design |
 
 I participated as a frontend developer in this collaborative academic project.
 
@@ -72,6 +53,7 @@ This project provided practical experience in web interface development, working
 
 Repository Structure
 
+```text
 FAIRLTER-Air-Filter-Web-System/
 ├── login.html        # Main web interface
 ├── style.css         # Frontend styling
@@ -82,6 +64,7 @@ FAIRLTER-Air-Filter-Web-System/
 ├── prototype.png     # Concept prototype image
 ├── homepage.mp4      # Homepage media
 └── README.md         # Project documentation
+```
 
 Running the Project
 
